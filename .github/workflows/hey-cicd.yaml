@@ -16,3 +16,5 @@ jobs:
 
       - name: Show operating system
         run: uname -a
+      - name: Show name
+        run: echo "My name is Kesab!"
